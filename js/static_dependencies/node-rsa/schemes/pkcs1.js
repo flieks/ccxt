@@ -5,7 +5,7 @@
 var BigInteger = require('../libs/jsbn');
 var CryptoJS = require('../../crypto-js/crypto-js');
 
-var Buffer = require('buffer/').Buffer
+var Buffer = require('buffer').Buffer
 
 var constants = { RSA_NO_PADDING: 3 }
 require('constants');
